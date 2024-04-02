@@ -1,22 +1,22 @@
 {
-  "author": "Nayan",
+  "author": "Ebadat",
   "version": "1.5.7",
   "autoRestart": true,
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "Villain Ebadat🔥❤️",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "1015936228",
+    "1015936228"
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "1015936228",
+    "1015936228"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["1015936228"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
